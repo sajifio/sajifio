@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">I'm a full stack developer based in London</h3>
 
-- 🌱 I’m currently learning more about **chatbots, Java, JavaScript and React**
+- 🌱 I’m currently learning more about **chatbots, Java, JavaScript and React.**
+
+- 🔭 Looking for my first full stack development role.
 
 - ⚡ Fun fact **I love to cook. My signature dish is roast chicken with preserved lemon.**
 
